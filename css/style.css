@@ -48,5 +48,7 @@ a{
     .greetings{
         width: 80%;
     }
-    
+    .greetings{
+    margin-bottom: 72px;
+}    
 }
